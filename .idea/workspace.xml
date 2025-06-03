@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8406f1de-6315-4749-bf01-e0c1244e074b" name="Default" comment="squash! test 1">
+    <list default="true" id="8406f1de-6315-4749-bf01-e0c1244e074b" name="Default" comment="test 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -465,10 +465,12 @@
       </map>
     </option>
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test 1" />
     <MESSAGE value="test 2" />
-    <MESSAGE value="test 4" />
     <MESSAGE value="test 4 + test 3 + test 2 + test 1" />
     <option name="LAST_COMMIT_MESSAGE" value="test 4 + test 3 + test 2 + test 1" />
   </component>
